@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Mountainsites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Mount Wilson Observatory", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -118.0572966, 34.2252867, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Millard Falls", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -118.1418543, 34.2188158, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "San Gabriel Peak", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -118.0984032, 34.2433363, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Switzer Falls", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -118.1527535, 34.256491, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Big Tujunga Dam Overlook", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -118.1803819, 34.2942834, 0.0 ] } }
+]
+}
